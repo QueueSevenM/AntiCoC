@@ -13,7 +13,7 @@ The AntiCoC on the other hand, seeks to do exactly the opposite. The only behavi
 
 ## Note on the interpretation of the terms
 
-We reject any attempts to force adherence to activist causes by claiming that they are objectively correct, morally righteous, are a matter of 'human rights', or that not supporting them is 'bigotry'. For the purposes of this document, any attempt to force adherence to activist causes will be considered objective and political.
+We reject any attempts to force adherence to activist causes by claiming that they are objectively correct, morally righteous, are a matter of 'human rights', or that not supporting them is 'bigotry'. For the purposes of this document, any attempt to force adherence to activist causes will be considered subjective and political.
 
 ## FAQ
 
